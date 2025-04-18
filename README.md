@@ -1,2 +1,2 @@
-# Exploratory-Data-Analyst-Project
-This project presents an interactive Power BI dashboard showcasing exploratory data analysis (EDA) on a grocery dataset from BigBasket, one of India's largest online food and grocery stores.
+## Exploratory-Data-Analyst- BIG BASKET POWER BI PROJECT
+# This project presents an Exploratory Data Analysis (EDA) of a grocery dataset from BigBasket, using Power BI to develop an interactive dashboard. The primary objective is to provide valuable insights into product performance, sales trends, and market pricing across various categories and subcategories.
